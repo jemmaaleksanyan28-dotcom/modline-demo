@@ -1,4 +1,5 @@
 ﻿import createMiddleware from 'next-intl/middleware'
+import type { NextRequest } from 'next/server'
 import { defaultLocale, locales } from './i18n/config'
 
 const intlMiddleware = createMiddleware({
@@ -8,7 +9,7 @@ const intlMiddleware = createMiddleware({
   localeDetection: false,
 })
 
-export function proxy(request: Request) {
+export function proxy(request: NextRequest) {
   return intlMiddleware(request)
 }
 
