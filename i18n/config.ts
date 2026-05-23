@@ -8,3 +8,8 @@ export const localeNames: Record<Locale, string> = {
   fa: 'فارسی',
   en: 'English',
 }
+
+export const localeDirection: Record<Locale, 'rtl' | 'ltr'> = {
+  fa: 'rtl',
+  en: 'ltr',
+}
