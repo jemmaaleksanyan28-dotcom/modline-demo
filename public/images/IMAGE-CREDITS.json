@@ -1,0 +1,45 @@
+{
+  "note": "Seed images are local WebP conversions of free Unsplash images for prototype use. Replace with your own product photos before final commercial launch when possible.",
+  "sources": [
+    {
+      "file_group": "mens flatlay gray",
+      "unsplash": "https://unsplash.com/photos/DMUFAvIh6aE"
+    },
+    {
+      "file_group": "mens flatlay linen",
+      "unsplash": "https://unsplash.com/photos/VlgJiE4KQKg"
+    },
+    {
+      "file_group": "modest walking blue railing",
+      "unsplash": "https://unsplash.com/photos/8_vIQ5dR5j4"
+    },
+    {
+      "file_group": "black hijab outfit",
+      "unsplash": "https://unsplash.com/photos/MCqM5zsCXQc"
+    },
+    {
+      "file_group": "hijab close up",
+      "unsplash": "https://unsplash.com/photos/2hCIRw1KQ8c"
+    },
+    {
+      "file_group": "pink hijab dress",
+      "unsplash": "https://unsplash.com/photos/8gxf456AFsY"
+    },
+    {
+      "file_group": "boutique rack",
+      "unsplash": "https://unsplash.com/photos/pt3EBzQcxP0"
+    },
+    {
+      "file_group": "handbag display",
+      "unsplash": "https://unsplash.com/photos/8RUjKrwSob0"
+    },
+    {
+      "file_group": "women boutique racks",
+      "unsplash": "https://unsplash.com/photos/O8lxsc1RwCQ"
+    },
+    {
+      "file_group": "blue leather handbag",
+      "unsplash": "https://unsplash.com/photos/jKoRZkv2o0U"
+    }
+  ]
+}
